@@ -180,8 +180,4 @@ UpgradeLog*.htm
 *.bim_*.settings
 
 # Microsoft Fakes
-<<<<<<< HEAD
 FakesAssemblies/
-=======
-FakesAssemblies/
->>>>>>> c70c212... refactor blockKicker
